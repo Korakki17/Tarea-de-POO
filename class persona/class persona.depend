@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706278680 source:c:\users\alexander\documents\class persona\main.cpp
+	<iostream>
+	<string.h>
+
